@@ -2,7 +2,6 @@
   "name": "protractor-cucumber-allure-poc",
   "version": "1.0.0",
   "description": "Protractor cucumber tests for angular/non angular apps with allure report framework",
-  "homepage": "https://github.com/igniteram/protractor-cucumber-allure",
   "keywords": [
     "protractor",
     "cucumber",
@@ -24,7 +23,7 @@
     "webdriver-start": "webdriver-manager start",
     "webdriver-update": "webdriver-manager update"
   },
-  "author": "Ram Pasala <ram.pasala7@gmail.com>",
+  "author": "Sumit Soman <sumit.somanchd@gmail.com>",
   "dependencies": {
     "chai": "^4.0.2",
     "cucumber": "^2.3.0",
